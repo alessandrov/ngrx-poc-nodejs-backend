@@ -1,4 +1,4 @@
-# Node.js RESTful API, meant to act as the backend for this [single page application](https://github.com/alessandrov/ngrx-poc).
+## Node.js RESTful API, meant to act as the backend for this [single page application](https://github.com/alessandrov/ngrx-poc).
 
 Based on Express.js, it supports OAuth 2 authentication via [oauth2orize](https://www.npmjs.com/package/oauth2orize).
 
