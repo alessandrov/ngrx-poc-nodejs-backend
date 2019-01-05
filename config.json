@@ -1,0 +1,19 @@
+{
+  "application-port": 3000,
+  "security": {
+    "token-expiration-seconds": 3600
+  },
+  "mongooseLocal": {
+    "uri": "mongodb://localhost:27017/node-express-rest-service"
+  },
+  "default": {
+    "api": {
+      "version": "v1"
+    },
+    "client": {
+      "name": "client_name",
+      "clientId": "client_id",
+      "clientSecret": "client_secret"
+    }
+  }
+}

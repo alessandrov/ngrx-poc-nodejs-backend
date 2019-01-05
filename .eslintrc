@@ -1,0 +1,26 @@
+{
+  "rules": {
+    "indent": ["error", 2],
+    "quotes": [
+      2,
+      "double"
+    ],
+    //just change this according to your OS
+    //"linebreak-style": [
+      //2,
+      //"unix"
+    //],
+    "linebreak-style": [
+      "error",
+      "windows"
+    ],
+    "semi": [
+      2,
+      "always"
+    ]
+  },
+  "env": {
+    "es6": true,
+    "node": true
+  }
+}

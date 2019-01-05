@@ -1,0 +1,8 @@
+{
+  "bookNotFound": "Record not found",
+  "validationError": "Data validation error",
+  "serverError": "Server error",
+  "bookDeletedOk": "Book successfully deleted",
+  "bookUpdatedOk": "Book successfully updated",
+  "bookPatchedOk": "Book successfully patched"
+}
